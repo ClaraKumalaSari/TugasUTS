@@ -1,0 +1,2 @@
+rootProject.name='tugasUTS'
+include ':app'
